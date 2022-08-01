@@ -1,19 +1,17 @@
-title: Site Title
+title: Sophie McIntyre
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is my website
 permalink: '/:title/'
 
 # Author settings
-author: Your Name # add your name
+author: Sophie McIntyre # add your name
 author-pic: yosh-ginsu.jpg
-about-author: About you
+about-author: MLIS Student
 
 # Contact links
-email: # Add your Email address
-phone: # Add your Phone number
-website: # Add your website, do not add http://
+email: sophiedmcintyre@gmail.com # Add your Email address
+phone: (615)713-0889 # Add your Phone number
+website: sophiedmcintyre.github.io # Add your website, do not add http://
 linkedin: # Add your Linkedin handle
 github: #Add your Github handle
 twitter:  # Add your Twitter handle
