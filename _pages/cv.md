@@ -7,7 +7,7 @@ order: 2
 
 ## Currently
 
-Current Position Description
+Current Position
 
 ## Education
 
