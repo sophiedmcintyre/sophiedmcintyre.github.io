@@ -9,10 +9,12 @@ order: 2
 
 `2021-2024`
 __University of Washington__
+
 Master of Library and Information Science
 
 `2017-2021`
 __Middle Tennessee State University__
+
 Bachelor of Science in Computer Science 
 
 ## Occupation
