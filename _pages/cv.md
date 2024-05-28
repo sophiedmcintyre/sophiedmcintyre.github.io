@@ -34,13 +34,11 @@ __Textbook Assistant__, James E. Walker Library
 ## Volunteer Work
 
 `2022`
-__Rutherford County Library Volunteer__
-Technology Engagement Center
+__Rutherford County Library Volunteer__,Technology Engagement Center
 - Taught classes on Excel, Word, and PowerPoint to community members
 
 `2023`
-__Library Carpentry Workshop Helper__
-Network of the National Library of Medicine
+__Library Carpentry Workshop Helper__,Network of the National Library of Medicine
 - Helped workshop participants troubleshoot tech issues during a virtual workshop on emerging technologies for library and information professionals
 
 
